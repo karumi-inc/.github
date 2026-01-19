@@ -5,7 +5,7 @@
   <h3 align="center">Karumi, Inc.</h3>
 
   <p align="center">
-    The AI Product Expert and Forward Deploy Engineer.
+    The AI Product Expert.
     <br />
     <a href="https://karumi.ai"><strong>Learn more »</strong></a>
     <br />
